@@ -1,0 +1,66 @@
+2016-01-12 22:04:47 - PHP Notice:  Undefined index: sort_order in /home/floorbrain/public_html/admin/model/design/banner.php on line 37
+2016-01-12 22:04:47 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/admin/index.php:80) in /home/floorbrain/public_html/system/library/response.php on line 12
+2016-01-12 23:07:22 - PHP Notice:  Undefined index: sort_order in /home/floorbrain/public_html/admin/model/design/banner.php on line 37
+2016-01-12 23:07:22 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/admin/index.php:80) in /home/floorbrain/public_html/system/library/response.php on line 12
+2016-01-12 23:10:34 - PHP Notice:  Undefined index: sort_order in /home/floorbrain/public_html/admin/model/design/banner.php on line 37
+2016-01-12 23:10:34 - PHP Notice:  Undefined index: sort_order in /home/floorbrain/public_html/admin/model/design/banner.php on line 37
+2016-01-12 23:10:34 - PHP Notice:  Undefined index: sort_order in /home/floorbrain/public_html/admin/model/design/banner.php on line 37
+2016-01-12 23:10:34 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/admin/index.php:80) in /home/floorbrain/public_html/system/library/response.php on line 12
+2016-01-13 8:59:38 - PHP Notice:  Undefined index: sort_order in /home/floorbrain/public_html/admin/model/design/banner.php on line 37
+2016-01-13 8:59:38 - PHP Notice:  Undefined index: sort_order in /home/floorbrain/public_html/admin/model/design/banner.php on line 37
+2016-01-13 8:59:38 - PHP Notice:  Undefined index: sort_order in /home/floorbrain/public_html/admin/model/design/banner.php on line 37
+2016-01-13 8:59:38 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/admin/index.php:80) in /home/floorbrain/public_html/system/library/response.php on line 12
+2016-01-13 9:04:42 - PHP Notice:  Undefined index: sort_order in /home/floorbrain/public_html/admin/model/design/banner.php on line 37
+2016-01-13 9:04:42 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/admin/index.php:80) in /home/floorbrain/public_html/system/library/response.php on line 12
+2016-01-13 17:02:40 - PHP Notice:  Undefined index: sort_order in /home/floorbrain/public_html/admin/model/design/banner.php on line 37
+2016-01-13 17:02:40 - PHP Notice:  Undefined index: sort_order in /home/floorbrain/public_html/admin/model/design/banner.php on line 37
+2016-01-13 17:02:40 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/admin/index.php:80) in /home/floorbrain/public_html/system/library/response.php on line 12
+2016-01-14 10:16:45 - PHP Notice:  Undefined variable: entry_export in /home/floorbrain/public_html/admin/view/template/tool/backup.tpl on line 43
+2016-01-14 12:26:24 - PHP Notice:  Error: EHLO not accepted from server! in /home/floorbrain/public_html/system/library/mail.php on line 199
+2016-01-14 12:27:44 - PHP Notice:  Error: EHLO not accepted from server! in /home/floorbrain/public_html/system/library/mail.php on line 199
+2016-01-14 13:16:06 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 188
+2016-01-14 13:16:06 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 189
+2016-01-14 13:16:06 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 192
+2016-01-14 13:16:06 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 193
+2016-01-14 13:16:06 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/index.php:98) in /home/floorbrain/public_html/system/library/currency.php on line 45
+2016-01-14 13:16:06 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/index.php:98) in /home/floorbrain/public_html/system/library/response.php on line 12
+2016-01-14 13:16:13 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 188
+2016-01-14 13:16:13 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 189
+2016-01-14 13:16:13 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 192
+2016-01-14 13:16:13 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 193
+2016-01-14 13:16:13 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/index.php:98) in /home/floorbrain/public_html/system/library/currency.php on line 45
+2016-01-14 13:16:17 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 188
+2016-01-14 13:16:17 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 189
+2016-01-14 13:16:17 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 192
+2016-01-14 13:16:17 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 193
+2016-01-14 13:16:17 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/index.php:98) in /home/floorbrain/public_html/system/library/currency.php on line 45
+2016-01-14 13:16:21 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 188
+2016-01-14 13:16:21 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 189
+2016-01-14 13:16:21 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 192
+2016-01-14 13:16:21 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 193
+2016-01-14 13:16:21 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/index.php:98) in /home/floorbrain/public_html/system/library/currency.php on line 45
+2016-01-14 13:16:28 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 188
+2016-01-14 13:16:28 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 189
+2016-01-14 13:16:28 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 192
+2016-01-14 13:16:28 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 193
+2016-01-14 13:16:28 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/index.php:98) in /home/floorbrain/public_html/system/library/currency.php on line 45
+2016-01-14 13:16:40 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 188
+2016-01-14 13:16:40 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 189
+2016-01-14 13:16:40 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 192
+2016-01-14 13:16:40 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 193
+2016-01-14 13:16:40 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/index.php:98) in /home/floorbrain/public_html/system/library/currency.php on line 45
+2016-01-14 13:16:42 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 188
+2016-01-14 13:16:42 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 189
+2016-01-14 13:16:42 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 192
+2016-01-14 13:16:42 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 193
+2016-01-14 13:16:42 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/index.php:98) in /home/floorbrain/public_html/system/library/currency.php on line 45
+2016-01-14 13:16:55 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 188
+2016-01-14 13:16:55 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 189
+2016-01-14 13:16:55 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 192
+2016-01-14 13:16:55 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 193
+2016-01-14 13:16:55 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/index.php:98) in /home/floorbrain/public_html/system/library/currency.php on line 45
+2016-01-14 13:17:02 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 188
+2016-01-14 13:17:02 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 189
+2016-01-14 13:17:02 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 192
+2016-01-14 13:17:02 - PHP Notice:  Undefined index: en in /home/floorbrain/public_html/index.php on line 193
+2016-01-14 13:17:02 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/floorbrain/public_html/index.php:98) in /home/floorbrain/public_html/system/library/currency.php on line 45
