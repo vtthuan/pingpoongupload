@@ -676,11 +676,11 @@ h2.price {
 	border: 1px solid #ddd;
 }
 .image-additional {
-	max-width: 78px;
+	max-width: 125px;
 }
 .thumbnails .image-additional {
 	float: left;
-	margin-left: 20px;
+	margin-left: 2px;
 }
 
 @media (min-width: 1200px) {

@@ -2,6 +2,8 @@
 Thumbs.db
 ehthumbs.db
 
+system/storage/cache
+image/cache
 # Folder config file
 Desktop.ini
 
