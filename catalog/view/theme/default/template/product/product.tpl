@@ -138,12 +138,12 @@
           <ul class="list-unstyled">
             <?php if (!$special) { ?>
             <li>
-              <h2><?php echo $price; ?></h2>
+              <h2><span id="price_old"><?php echo $price; ?></span></h2>
             </li>
             <?php } else { ?>
-            <li><span style="text-decoration: line-through;"><?php echo $price; ?></span></li>
+            <li><span id="price_old" style="text-decoration: line-through;"><?php echo $price; ?></span></li>
             <li>
-              <h2><?php echo $special; ?></h2>
+              <h2><span id="price_special"><?php echo $special; ?></span></h2>
             </li>
             <?php } ?>
             <?php if ($tax) { ?>
@@ -175,7 +175,7 @@
                 <?php foreach ($option['product_option_value'] as $option_value) { ?>
                 <option value="<?php echo $option_value['product_option_value_id']; ?>"><?php echo $option_value['name']; ?>
                 <?php if ($option_value['price']) { ?>
-                (<?php echo $option_value['price_prefix']; ?><?php echo $option_value['price']; ?>)
+                 - <?php echo $option_value['price']; ?>
                 <?php } ?>
                 </option>
                 <?php } ?>
@@ -598,4 +598,5 @@ $(document).ready(function() {
 	});
 });
 //--></script>
+<script type="text/javascript" src="index.php?route=product/livepriceupdate/js&product_id=<?php echo $product_id; ?>"></script>
 <?php echo $footer; ?>
